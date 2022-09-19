@@ -19,15 +19,14 @@
 
 ```javascript
 const saurabh_bomble = { 
-  code: [Java, Javascript, HTML, CSS,Python,Kotlin],
+  code: [Java, Javascript, HTML, CSS,Python,Kotlin,C],
   tools: {
-    frontend: [Next.js, React.js, Framer Motion, Redux, React Query, Apollo, React Native, Flutter],
-    design: [Figma, AdobeXd, Adobe after effects],
+    frontend: [React.js,HTML5,CSS3,PHP],
     backend: [Nest.js, Node.js, Firebase],
-    Application: [java,kotlin,react js]
+    Application: [Java,Kotlin, Native React]
     api: [REST, GraphQL],
-    database: [Postgres, MongoDB,oracle, Firebase,], 
-    web3: [Ethereum, Solana]
+    database: [Postgres, MongoDB,Oracle, Firebase,], 
+    web3: [Ethereum, Solana,Solidity],
   }
 }
 ```
