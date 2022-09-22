@@ -24,7 +24,7 @@ const Pawan_Dhangar = {
     frontend: [React.js,HTML5,CSS3,PHP],
     backend: [Nest.js, Node.js, Firebase],
     Application: [Java,Kotlin, Native React]
-    api: [REST, GraphQL],
+    Api: [REST, GraphQL],
     database: [Postgres, MongoDB,Oracle, Firebase,], 
     web3: [Ethereum, Solana,Solidity],
   }
