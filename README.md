@@ -34,12 +34,12 @@ Welcome to my Github profile! I am an aspiring software engineer and app develop
 
 ```javascript
 const Pawan_Dhangar = { 
-  code: [Java, Javascript, HTML, CSS,Python,Kotlin,C],
+  code: [Java,Javascript,Kotlin,Flutter],
   tools: {
-    frontend: [React.js,HTML5,CSS3,PHP],
+    frontend: [React.js,Flutter],
     backend: [Nest.js, Node.js, Firebase],
     Application: [Java,Kotlin, Native React]
-    Api: [REST, GraphQL],
+    API: [Rest, GraphQL],
     database: [MySQL,MongoDB,Firebase,], 
     web3: [Ethereum,Solidity],
   }
