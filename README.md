@@ -1,15 +1,6 @@
 <a href="https://ibb.co/f94Y94v"><img src="https://i.ibb.co/42PZ2Pd/1.png" width="2600" alt="1" border="0"></a>
 
 <h1 align="center">Hey 👋, I'm Pawan</h1> 
-
-- 🔭 I’m currently working on **Android Application**
-
-- 🌱 I’m currently learning **Blockchain**
-
-- 📫 Contact me: **pawandhangar113@gmail.com**
-
-- 👨‍💻 Check out my articles : [geeksforgeeks](https://auth.geeksforgeeks.org/user/pawandhangar113/articles)
-
 ###
 
 <div align="left">
@@ -20,6 +11,15 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
+
+
+- 🔭 I’m currently working on **Android Application**
+
+- 🌱 I’m currently learning **Blockchain**
+
+- 📫 Contact me: **pawandhangar113@gmail.com**
+
+- 👨‍💻 Check out my articles : [geeksforgeeks](https://auth.geeksforgeeks.org/user/pawandhangar113/articles)
 
 
 ### Skills 
