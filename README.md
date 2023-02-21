@@ -1,7 +1,5 @@
 <a href="https://ibb.co/f94Y94v"><img src="https://i.ibb.co/42PZ2Pd/1.png" width="2600" alt="1" border="0"></a>
 
-<h1 align="center">Hey 👋, I'm Pawan</h1> 
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/pa1dhangar/" target="_blank">
@@ -11,6 +9,8 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
+
+<h1 align="center">Hey 👋, I'm Pawan</h1> 
 
 
 - 🔭 I’m currently working on **Android Application**
