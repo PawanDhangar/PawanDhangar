@@ -32,8 +32,6 @@ Welcome to my Github profile! I am an aspiring software engineer and app develop
 
 ### 🚀Skills 
 
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" style="width:50%;" />
-
 ```javascript
 const Pawan_Dhangar = { 
   code: [Java, Javascript, HTML, CSS,Python,Kotlin,C],
