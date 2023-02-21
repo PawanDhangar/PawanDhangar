@@ -1,6 +1,12 @@
-<a href="https://ibb.co/f94Y94v"><img src="https://i.ibb.co/42PZ2Pd/1.png" width="2600" alt="1" border="0"></a>
+# Hey 👋, I'm Pawan 
 
+Welcome to my Github profile! I am an aspiring software engineer and app developer with a passion for creating innovative and user-friendly applications. I am constantly learning and improving my skills to develop high-quality software solutions. 
 
+🛸My Github profile is a showcase of my projects and contributions to the open-source community. 
+
+🚀Take a look around and feel free to reach out if you have any questions or if you're interested in 🤝collaborating on a project!
+ 
+### Join me virtually for some coding wizardry. Meet me here!👇
 <div align="left">
   <a href="https://www.linkedin.com/in/pa1dhangar/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -10,10 +16,11 @@
   </a>
 </div>
 
-<h1 align="center">Hey 👋, I'm Pawan</h1> 
+<h1></h1>
 
+### 🚀Nowdays
 
-- 🔭 I’m currently working on **Android Application**
+- 🔭 I’m currently working on **Application Development**
 
 - 🌱 I’m currently learning **Blockchain**
 
@@ -21,8 +28,9 @@
 
 - 👨‍💻 Check out my articles : [geeksforgeeks](https://auth.geeksforgeeks.org/user/pawandhangar113/articles)
 
+<h1></h1>
 
-### Skills 
+### 🚀Skills 
 
 <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" style="width:50%;" />
 
@@ -39,11 +47,3 @@ const Pawan_Dhangar = {
   }
 }
 ```
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PawanDhangar&show_icons=true&locale=en&title_color=green&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="PawanDhangar" />
-<!--   <img align="right" alt="Coding" width="200" src=""> -->
-</p>
-
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=PawanDhangar&theme=dark" alt="PawanDhangar" /></p>
- 
